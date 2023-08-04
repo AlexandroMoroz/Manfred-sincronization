@@ -1,0 +1,638 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Ivan",
+      "surnames": "Alexandro Moroz",
+      "title": "Full stack developer | Java Spring | HTML CSS | Javascript React | JPA MySQL | JUnit 5 Mockito",
+      "description": "¡Hola! mi nombre es Ivan Alexandro, soy un apasionado de la programación y hace poco me recibí como full stack developer en Java con la empresa Egg cooperation, ahí pude aprender HTML5, CSS, Java, JavaScript, Bootstrap, Git, Github, ReactJs, JPA, JDBC, Spring y MySQL. (de forma autónoma aprendí sobre JUnit 5 y mockito)\nBusco insertarme en el mercado laboral, y demostrar mis habilidades y capacidades de resolver problemas con ingenio y destreza.\nMe fascina aprender y siempre estoy en constante aprendizaje de nuevas herramientas, métodos, prácticas, etc.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/04/f003fad7-a0fd-4fac-8792-8f5f7e94a3d5_cv-semi-profesional.jpg",
+        "alt": "cv semi profesional.jpg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJw4RSqdLMvJUR64e9Ea20DcQ)",
+        "country": "Argentina",
+        "region": "Provincia de Buenos Aires",
+        "municipality": "Gerli"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://alexandromoroz.github.io"
+      }
+    ]
+  },
+  "experience": {
+    "projects": [
+      {
+        "details": {
+          "name": "Página de noticias de \"EGG\"",
+          "description": "este proyecto forma parte de uno de los ejercicios que tuve que hacer durante mi transcurso de aprendizaje con EGG Cooperation y tenia que crear una página desde 0 utilizando base de datos, lógica back-end y diseño front end, fue mi primer proyecto \"completo\" en toda mi carrera.\nEn este proyecto usé Thymeleaf para las conexiones entre front y back end.",
+          "URL": "https://github.com/AlexandroMoroz/Pagina-de-noticias"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-10-01",
+            "competences": [
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JPA",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2022-10-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Página de salud \"Vitalidapp\" para médicos autónomos",
+          "description": "Este proyecto fue creado con un grupo de 6 personas (incluyendome). Tiene como fin, ayudar a que los médicos autónomos puedan registrar y atender pacientes, mantener sus historiales médicos en una base de datos actualizada y guardar los diagnósticos. El problema actual en los hospitales es que se pierde muy seguido el historial médico y muchas veces no hay orden por lo que esta página estaría ayudando a resolver parte del problema. Mi trabajo acá fue principalmente BackEnd pero también he participado en FrontEnd sin mencionar las vinculaciones entre front y back y también las vinculaciones entre back y base de datos. Un pequeño agregado adicional, aprendí un poco sobre tres metodologías ágiles las cuales son (Líder técnico, Scrum Master y Agile Delivery Manager).",
+          "URL": "https://github.com/AlexandroMoroz/health-app"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-04-01",
+            "competences": [
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2023-05-01"
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "RU",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JUnit",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mockito",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Full stack web developer",
+        "startDate": "2023-04-01",
+        "institution": {
+          "name": "EGG Cooperation",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/04/7320174b-16e6-4585-82a4-de723158cc4e_certificado_curso_pr.jpg",
+            "alt": "Certificado_Curso_Programacin_FullStack.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Bootstrap",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JPA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Spring",
+            "type": "technology"
+          },
+          {
+            "name": "Spring Boot",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Full stack web developer",
+        "startDate": "2022-07-01",
+        "institution": {
+          "name": "EGG Cooperation",
+          "description": "Titulación: 9/10\nActividades y grupos: Curso de 3 horas diarias de lunes a jueves entre las 19 y 22:00p.m.\nActividades y grupos: Curso de 3 horas diarias de lunes a jueves entre las 19 y 22:00 p.m.\ncada encuentro equivale a 3 horas.\nTemario:\nGuía 1 (2 encuentros): Introducción al código\nGuía 2 (8 encuentros): Estructuras de control\nGuía 3 (6 encuentros): Subprogramas\nGuía 4 (9 encuentros): Arreglos\nGuía 5 (1 encuentro): Github 1\nGuía 6 (10 encuentros): Java\nGuía 7 (20 encuentros): POO\nGuía 8 (9 encuentros): Colecciones\nGuía 9 (9 encuentros): Relaciones\nGuía 10 (9 encuentros): Herencia\nGuía 11 (3 encuentros): Excepciones\nGuía 12 (9 encuentros): MySQL\nGuía 13 (4 encuentros): JDBC\nGuía 14 (8 encuentros): JPA\nGuía 15 (1 encuentro): Github 2\nGuía 16 (6 encuentros): HTML y CSS\nGuía 17 (9 encuentros): Spring MVC\nGuía 18 (13 encuentros): Spring Security\nGuía 19 (9 encuentros): Javascript\nGuía 20 (10 encuentros): React\nAptitudes: Spring Boot · Spring Framework · React.js · JavaScript · Hojas de estilos en cascada (CSS) · HTML5 · JDBC · GitHub · Git · Java · JPA · Spring Security · Spring MVC · Liderazgo · Comunicación · Aprendizaje activo · Espíritu de equipo",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/04/a4778f8f-7395-4f19-a37b-2c1c5babcd75_certificado_curso_pr.jpg",
+            "alt": "Certificado_Curso_Programacin_FullStack.jpg"
+          }
+        },
+        "finishDate": "2023-04-01",
+        "linkedCompetences": [
+          {
+            "name": "Bootstrap",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Spring",
+            "type": "technology"
+          },
+          {
+            "name": "Spring Boot",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Studio Code",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Principios de IA",
+        "startDate": "2022-10-01",
+        "institution": {
+          "name": "Elements of AI",
+          "description": "principios de programación de IA",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/04/bc7bca69-c6c3-412a-a2c3-873b013dce4b_certificate-elements.png",
+            "alt": "certificate-elements-of-ai-es.png"
+          }
+        },
+        "finishDate": "2022-10-01"
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Proyecto final de full stack",
+        "startDate": "2023-05-01",
+        "institution": {
+          "name": "EGG Cooperation",
+          "description": "este proyecto constaba de trabajar en un equipo de 6 personas para iniciar y terminar un proyecto con ciertos requisitos, en el mismo se empleó: HTML - CSS - Javascript - Java - Thymeleaf - Git - Github - MySQL - Bootstrap - Spring - Spring boot y Spring security.\nSe trabajó en un lapso de 6 semanas y se aplicaron 3 metodologías agiles (como aprendizaje para tener un primer vistazo de cómo funcionan) las cuales fueron \"Líder técnico, Scrum master y Agile Delivery Manager\".\nEl Lider técnico se encargaba del proyecto en github, distribuir tareas grandes por semana y que el código esté bien sin errores.\nEl Agile Delivery Manager se encargaba de distribuir  las tareas por persona.\nEl scrum master se encargaba de los daily y de guardar todo lo que hizo cada persona en el día.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/04/b3945ac4-aedd-4527-8071-5cd9b4c0af4f_certificado_proyecto.jpg",
+            "alt": "Certificado_Proyecto_Final_Programacin_Full-Stack_page-0001.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Bootstrap",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "Spring",
+            "type": "technology"
+          },
+          {
+            "name": "Spring Boot",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Studio Code",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "primer tramo Argentina programa 4.0",
+        "startDate": "2023-04-01",
+        "institution": {
+          "name": "INTI",
+          "description": "en este primer tramo se enseña a los nuevos en la programación los principios básicos de la misma y luego se profundiza más empezando a usar JavaScript en ejemplos prácticos y Ruby para aprender sobre POO",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/04/1d28f95a-8109-49e9-a54b-6a0ccc44c300_argentina_programa_2.jpg",
+            "alt": "argentina_programa_2023.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Ruby",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "principios de IA",
+        "startDate": "2022-10-01",
+        "institution": {
+          "name": "Elements of AI",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/04/cbaf93c1-3668-4489-8cf6-059ebb882e27_certificate-elements.png",
+            "alt": "certificate-elements-of-ai-es.png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "programación desde cero",
+        "startDate": "2022-07-01",
+        "institution": {
+          "name": "EGG Cooperation",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/04/7eb3033b-1d92-4590-94da-a065b61f3903_certificado_de_curso.jpg",
+            "alt": "Certificado_de_Curso_Programacion_desde_Cero.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "programación desde cero",
+        "startDate": "2022-06-01",
+        "institution": {
+          "name": "EGG Cooperation",
+          "description": "todos los principios básicos de la programación en back end",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/04/a2f97460-acdd-4795-a5b7-cfd827229287_certificado_de_curso.jpg",
+            "alt": "Certificado_de_Curso_Programacion_desde_Cero.jpg"
+          }
+        },
+        "finishDate": "2022-07-01",
+        "linkedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Autonomía en el aprendizaje",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/ivan-alexandro-moroz-java-developer-trainee/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/AlexandroMoroz",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "alexandromoroz5@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "91167299200",
+          "countryCode": "+54"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Bootstrap",
+          "type": "technology"
+        },
+        {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "MySQL",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "Spring",
+          "type": "technology"
+        },
+        {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "HTML",
+        "type": "technology"
+      },
+      {
+        "name": "JAVA",
+        "type": "technology"
+      },
+      {
+        "name": "MySQL",
+        "type": "technology"
+      },
+      {
+        "name": "Spring",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Mi trabajo ideal seria aquel que me permita gestionar distintas soluciones creativas a los problemas y sean abiertos a escuchar todas las ideas que puedo proponer, quiero un entorno sano y transparente tanto en la empresa como con los clientes, definitivamente lo que más valor tiene para mi es el respeto y cualquier empresa que entienda esto, es la indicada.\nademás me encantaría trabajar en un entorno en donde puedo recibir feedback y capacitación constante, busco la mejor forma de mi y para eso necesito seguir entrenando, estudiando y practicando.",
+    "goodPractices": "A la hora de trabajar me gusta mantener un código limpio, en mi caso por código limpio yo entiendo que se trabaja con responsabilidad y organización, es decir que si yo entro a un proyecto mío, voy a saber en dónde puedo encontrar cada cosa que busco, por ejemplo, yo voy a saber que los controladores los voy a tener siempre en la carpeta \"controladores\".\nMe encanta trabajar con en equipo ya que puedo debatir distintos puntos de vista y así llegar al mejor resultado posible.\nA día de hoy sigo estudiando y aprendiendo herramientas y prácticas nuevas, lo último que aprendí de manera autónoma fueron tests unitarios en Java con JUnit 5 y mockito.",
+    "projects": [
+      {
+        "name": "Página de noticias de \"EGG\""
+      },
+      {
+        "name": "Página de salud \"Vitalidapp\" para médicos autónomos"
+      }
+    ]
+  }
+}
